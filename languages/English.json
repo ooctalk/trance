@@ -1,0 +1,53 @@
+{
+  "CFBundleDisplayName": "trance",
+  "NSContactsUsageDescription": "by OoCTalk",
+  "trance": "trance",
+  "Preview_Version": "Preview Version",
+  "Save": "Save",
+  "Cancel": "Cancel",
+  "Create": "Create",
+  "Delete": "Delete",
+  "Chat": "Chat",
+  "Send": "Send",
+  "Are_You_Sure": "Are you sure?",
+  "No_Rollback": "Cannot be undone",
+  "Comming_Soon": "Coming Soon",
+  "No_Data": "No Data",
+  "Loading": "Loading...",
+  "RootDrawer": {
+    "my": "My",
+    "resonance": "Resonance",
+    "messages": "Messages",
+    "characters": "Characters",
+    "library": "Library",
+    "prompts": "Prompts",
+    "regex": "Regex",
+    "models": "Models",
+    "settings": "Settings",
+    "about": "About Trance"
+  },
+  "Models": {
+    "gemini": "Gemini",
+    "gemini_model": "Gemini Model",
+    "gemini_key": "Gemini Token"
+  },
+  "Characters": {
+    "import_character": "Import Character Card",
+    "character_details": "Character Card Description",
+    "new_chat": "Create New Chat",
+    "choose_prologue": "Choose Prologue",
+    "no_prologue": "No Prologue",
+    "chatroom_name": "Chatroom Name"
+  },
+  "Prompts": {
+    "import_prompt": "Import Prompt",
+    "prompt_details": "Prompt Details"
+  },
+  "Messages": {
+    "chatroom_details": "Chatroom Details",
+    "chatroom_prompt": "Chatroom Prompt",
+    "chatroom_model": "Chatroom Model",
+    "no_ready": "Not ready, please retry or check the prompt and model",
+    "remote_error": "Remote Error"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "CFBundleDisplayName": "喘息",
+  "NSContactsUsageDescription": "by OoCTalk",
+  "trance":"喘息",
+  "Preview_Version":"预览版本",
+  "Save": "保存",
+  "Cancel": "取消",
+  "Create": "创建",
+  "Delete": "删除",
+  "Chat": "聊天",
+  "Send":"发送",
+  "Are_You_Sure": "你确定吗？",
+  "No_Rollback": "无法撤销",
+  "Comming_Soon": "即将到来",
+  "No_Data": "暂无数据",
+  "Loading":"加载中...",
+  "RootDrawer": { 
+    "my": "我的",
+    "resonance": "共鸣",
+    "messages": "消息",
+    "characters": "角色",
+    "library": "知识库",
+    "prompts": "提示词",
+    "regex": "正则表达式",
+    "models": "模型",
+    "settings": "设置",
+    "about": "关于 trance"
+  },
+  "Models":{
+    "gemini": "Gemini",
+    "gemini_model":"Gemini 模型",
+    "gemini_key":"Gemini 令牌"
+  },
+  "Characters":{
+    "import_character": "导入角色卡",
+    "character_details": "角色卡描述",
+    "new_chat": "创建新聊天",
+    "choose_prologue": "选择开场白",
+    "no_prologue": "没有开场白",
+    "chatroom_name": "聊天名称"
+  },
+  "Prompts":{
+    "import_prompt": "导入提示词",
+    "prompt_details": "提示词详情"
+  },
+  "Messages":{
+    "chatroom_details": "聊天信息",
+    "chatroom_prompt": "聊天提示词",
+    "chatroom_model":  "聊天模型",
+    "no_ready":"未准备齐全,请重试或检查提示词和模型",
+    "remote_error": "远程错误"
+  }
+}
